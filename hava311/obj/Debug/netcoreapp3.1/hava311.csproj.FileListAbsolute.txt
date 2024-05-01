@@ -21,3 +21,4 @@ C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311A
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.dll
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.pdb
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.sourcelink.json
