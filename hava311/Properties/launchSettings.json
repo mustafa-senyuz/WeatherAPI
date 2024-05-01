@@ -1,0 +1,59 @@
+{
+    "profiles": {
+        "IIS Express": {
+            "commandName": "IISExpress",
+            "launchBrowser": true,
+            "launchUrl": "weatherforecast",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        "hava311": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "launchUrl": "weatherforecast",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "applicationUrl": "https://localhost:1000;http://localhost:5000"
+        },
+        "Container (Dockerfile)": {
+            "commandName": "Docker",
+            "launchBrowser": true,
+            "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/weatherforecast",
+            "environmentVariables": {
+                "ASPNETCORE_URLS": "https://+:443;http://+:80"
+            },
+            "publishAllPorts": true,
+            "useSSL": true
+        },
+        "WSL": {
+            "commandName": "WSL2",
+            "launchBrowser": true,
+            "launchUrl": "https://localhost:5001/weatherforecast",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "https://localhost:5001;http://localhost:5000"
+            },
+            "distributionName": "Ubuntu",
+            "versionInfo": {
+                "wslVersion": "2.0.14.0",
+                "kernelVersion": "5.15.133.1-1",
+                "wslgVersion": "1.0.59",
+                "msrdcVersion": "1.2.4677",
+                "direct3DVersion": "1.611.1-81528511",
+                "dxCoreVersion": "10.0.25131.1002-220531-1700.rs-onecore-base2-hyp",
+                "windowsVersion": "10.0.22631.3447"
+            }
+        }
+    },
+    "$schema": "http://json.schemastore.org/launchsettings.json",
+    "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+            "applicationUrl": "http://localhost:8394",
+            "sslPort": 44385
+        }
+    }
+}

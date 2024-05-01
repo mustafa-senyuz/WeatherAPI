@@ -1,0 +1,13 @@
+
+version: '3.4'
+
+services:
+  hava311:
+    image: hava311
+    build:
+      context: .
+      dockerfile: hava311/Dockerfile
+      args:
+        - configuration=Debug
+    volumes:
+      - ~/.vsdbg:/remote_debugger:rw

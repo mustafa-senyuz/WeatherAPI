@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ii8czXsG13JHg5xoJXnU/zapTcIpkPSn9B0Z24OhYM5rUKNPDY8Jb7rg1uPoDkWIazRNFqGm1XyymWkaXYtTSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mustafa\\Desktop\\DockerfileTEST\\opt\\app_docs\\jenkins\\withdocker\\hava311API\\hava311\\hava311.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
