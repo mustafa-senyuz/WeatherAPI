@@ -7,14 +7,13 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 ARG BUILD_CONFIGURATION=Release
-WORKDIR /src		#Dockerfile dizini
-#COPY ["hava311/hava311.csproj", "hava311/"]
-#2 COPY ["hava311.csproj", "./"]
-COPY ["hava311/hava311.csproj", "./hava311/"]
+WORKDIR /src        #Dockerfile dizini
+COPY ["*/hava311.csproj", "./hava311/"]
 RUN dotnet restore "./hava311/hava311.csproj"
 COPY . .
 WORKDIR "/src/hava311"
 RUN dotnet build "./hava311.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
 
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
