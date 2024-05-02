@@ -11,6 +11,7 @@ C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311A
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.AssemblyInfo.cs
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.csproj.CoreCompileInputs.cache
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.sourcelink.json
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.RazorTargetAssemblyInfo.cache
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\staticwebassets\hava311.StaticWebAssets.Manifest.cache
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\staticwebassets\hava311.StaticWebAssets.Pack.cache
@@ -21,4 +22,3 @@ C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311A
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.dll
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.pdb
 C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.genruntimeconfig.cache
-C:\Users\Mustafa\Desktop\DockerfileTEST\opt\app_docs\jenkins\withdocker\hava311API\hava311\obj\Debug\netcoreapp3.1\hava311.sourcelink.json
