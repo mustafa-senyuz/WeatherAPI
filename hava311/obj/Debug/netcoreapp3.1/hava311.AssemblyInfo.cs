@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hava311")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83312120af04b936a05edb17a02ef793db11d3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d094988ad3a41f531b49e7d785e14249684f51")]
 [assembly: System.Reflection.AssemblyProductAttribute("hava311")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hava311")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
